@@ -16,7 +16,13 @@ function myFunction(arr) {
     var out = "";
     var i;
     for(i = 0; i < arr.length; i++) {
-        out += '<li class="list-group-item">' + arr[i].name + ' is a ' + arr[i].role + ' at ' + arr[i].company + '</li>'; 
+        out += 
+        '<li class="list-group-item">' 
+        + arr[i].name + 
+        ' is a ' 
+        + arr[i].role + 
+        ' at ' 
+        + '<a href=" ' +  arr[i].url + '" target="_blank">' + arr[i].company + '</a>' + '</li>'; 
         
     }
     document.getElementById("employees").innerHTML = out;
