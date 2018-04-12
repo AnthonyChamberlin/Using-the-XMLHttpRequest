@@ -1,5 +1,7 @@
 # Using-the-XMLHttpRequest
 
+Please note! Make sure to run this in Firefox (haven't figured out how to resolve this in chrome yet)
+
 ### Tools Used
 
 1. Javascript
