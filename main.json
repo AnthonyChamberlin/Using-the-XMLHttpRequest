@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Mark",
+        "role": "Development Director",
+        "company": "MNA Digital",
+        "url": "https://www.mnadigital.co.uk"
+    },
+    {
+        "name": "Rols",
+        "role": "Senior Developer",
+        "company": "MNA Digital",
+        "url": "https://www.mnadigital.co.uk"
+    },
+    {
+        "name": "Jean",
+        "role": "Web Designer",
+        "company": "MNA Digital",
+        "url": "https://www.mnadigital.co.uk"
+    },
+    {
+        "name": "Matt",
+        "role": "Web Designer",
+        "company": "MNA Digital",
+        "url": "https://www.mnadigital.co.uk"
+    },
+    {
+        "name": "Ant",
+        "role": "Frontend Developer",
+        "company": "MNA Digital",
+        "url": "https://www.mnadigital.co.uk"
+    }
+
+]
